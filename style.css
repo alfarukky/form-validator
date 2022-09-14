@@ -94,6 +94,7 @@ h2 {
   font-size: 2rem;
   color: #fff;
   background-color: rgba(3, 138, 255, 1);
+  border-color: rgba(3, 138, 255, 1);
   border-radius: 1rem;
   width: 100%;
   padding: 1rem;
